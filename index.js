@@ -7,5 +7,7 @@ function mondayWork(go='go to the office'){
   return `This Monday, I will ${go}.`
 }
 function wrapAdjective(word){
+  function warp(word){
   return `*${word}*!`
+  }
 }
