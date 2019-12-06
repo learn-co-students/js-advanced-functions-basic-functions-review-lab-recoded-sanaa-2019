@@ -6,4 +6,6 @@ function saturdayFun(u="roller-skate"){
 function mondayWork(go='go to the office'){
   return `This Monday, I will ${go}.`
 }
-function wrapAdjective
+function wrapAdjective(){
+  
+}
