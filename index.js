@@ -6,6 +6,7 @@ function saturdayFun(u="roller-skate"){
 function mondayWork(go='go to the office'){
   return `This Monday, I will ${go}.`
 }
+<<<<<<< HEAD
 function wrapAdjective(u="*",word){
   
   return function mo(word){
@@ -32,4 +33,10 @@ function actionApplyer(n=0,h=[]){
     }else{
         return n;
     }
+=======
+function wrapAdjective(word){
+  function warp(word){
+  return `*${word}*!`
+  }
+>>>>>>> ffdae41d4bc268cd84d41b85674b26fe611b8ecd
 }
