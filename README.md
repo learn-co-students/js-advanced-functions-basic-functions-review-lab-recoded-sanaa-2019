@@ -1,4 +1,4 @@
-# JavaScript Advanced Functions: Basic Functions Review
+learn submit# JavaScript Advanced Functions: Basic Functions Review
 
 ## Learning Goals
 
